@@ -11,3 +11,4 @@ res.render('addUser');
 router.post('/addData',userC.userAdd);
 
 module.exports = router;
+//Some comment
